@@ -3,3 +3,5 @@ conda config --set ssl_verify False
 conda install xlsxwriter
 
 conda update numpy
+
+pip install --upgrade numpy
