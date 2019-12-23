@@ -5,3 +5,6 @@ conda install xlsxwriter
 conda update numpy
 
 pip install --upgrade numpy
+
+
+right click my computer; properties; advanced settings; environment variables
