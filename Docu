@@ -8,3 +8,6 @@ pip install --upgrade numpy
 
 
 right click my computer; properties; advanced settings; environment variables
+
+
+https://anaconda.org/conda-forge/scikit-plot
